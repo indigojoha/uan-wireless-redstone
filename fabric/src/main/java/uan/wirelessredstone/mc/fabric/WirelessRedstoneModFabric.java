@@ -2,9 +2,9 @@ package uan.wirelessredstone.mc.fabric;
 
 import net.fabricmc.api.ModInitializer;
 
-import uan.wirelessredstone.mc.ExampleMod;
+import uan.wirelessredstone.mc.WirelessRedstoneMod;
 
-public final class ExampleModFabric implements ModInitializer {
+public final class WirelessRedstoneModFabric implements ModInitializer {
     @Override
     public void onInitialize() {
         // This code runs as soon as Minecraft is in a mod-load-ready state.
@@ -12,6 +12,6 @@ public final class ExampleModFabric implements ModInitializer {
         // Proceed with mild caution.
 
         // Run our common setup.
-        ExampleMod.init();
+        WirelessRedstoneMod.init();
     }
 }

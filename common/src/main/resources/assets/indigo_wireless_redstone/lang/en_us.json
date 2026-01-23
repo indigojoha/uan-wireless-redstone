@@ -1,0 +1,5 @@
+{
+  "item.indigo_wireless_redstone.redstone_antenna_linker": "Redstone Antenna Linker",
+  "block.indigo_wireless_redstone.redstone_antenna_weak": "Short Redstone Antenna",
+  "block.indigo_wireless_redstone.redstone_antenna_strong": "Long Redstone Antenna"
+}

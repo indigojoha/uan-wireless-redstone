@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " L ",
+    "IQI",
+    "   "
+  ],
+  "key": {
+    "L": { "item": "minecraft:lightning_rod" },
+    "I": { "item": "minecraft:iron_ingot" },
+    "Q": { "item": "minecraft:quartz" }
+  },
+  "result": {
+    "id": "indigo_wireless_redstone:redstone_antenna_linker",
+    "count": 1
+  }
+}

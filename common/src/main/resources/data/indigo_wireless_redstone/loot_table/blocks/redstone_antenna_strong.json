@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "indigo_wireless_redstone:redstone_antenna_strong"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " L ",
+    "RQR",
+    "SSS"
+  ],
+  "key": {
+    "L": { "item": "minecraft:lightning_rod" },
+    "R": { "item": "minecraft:redstone" },
+    "Q": { "item": "minecraft:quartz" },
+    "S": { "tag": "minecraft:stone_crafting_materials" }
+  },
+  "result": {
+    "id": "indigo_wireless_redstone:redstone_antenna_weak",
+    "count": 1
+  }
+}

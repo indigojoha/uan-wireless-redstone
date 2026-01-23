@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "indigo_wireless_redstone:item/redstone_antenna_linker"
+  }
+}

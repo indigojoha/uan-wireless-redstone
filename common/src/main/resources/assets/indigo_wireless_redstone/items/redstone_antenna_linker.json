@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "indigo_wireless_redstone:item/redstone_antenna_linker"
+  }
+}

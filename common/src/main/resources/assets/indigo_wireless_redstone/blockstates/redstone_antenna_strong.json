@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "indigo_wireless_redstone:block/redstone_antenna_strong" },
+    "facing=east": { "model": "indigo_wireless_redstone:block/redstone_antenna_strong", "y": 90 },
+    "facing=south": { "model": "indigo_wireless_redstone:block/redstone_antenna_strong", "y": 180 },
+    "facing=west": { "model": "indigo_wireless_redstone:block/redstone_antenna_strong", "y": 270 }
+  }
+}
